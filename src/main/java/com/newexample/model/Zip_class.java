@@ -2,7 +2,7 @@ package com.newexample.model;
 
 import java.util.HashMap;
 import java.util.Objects;
-
+import javax.xml.bind.annotation.XmlRootElement;
 public class Zip_class {
     private int zip_code;
     private String locality;

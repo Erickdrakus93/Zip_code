@@ -1,3 +1,7 @@
 2020-03-23 19:33:10,419 WARN  [DefaultSoapUICore] Missing folder [/home/erick-hdz/ext] for external libraries
 2020-03-23 19:33:10,640 INFO  [DefaultSoapUICore] initialized soapui-settings from [/home/erick-hdz/soapui-settings.xml]
 2020-03-23 19:33:11,108 INFO  [WorkspaceImpl] Loading workspace from [/home/erick-hdz/intellij-soapui-workspace.xml]
+2020-03-23 19:35:43,593 INFO  [WorkspaceImpl] Saved workspace to [/home/erick-hdz/intellij-soapui-workspace.xml]
+2020-03-23 19:35:43,602 INFO  [DefaultSoapUICore] Settings saved to [/home/erick-hdz/soapui-settings.xml]
+2020-03-23 19:36:04,653 INFO  [WorkspaceImpl] Saved workspace to [/home/erick-hdz/intellij-soapui-workspace.xml]
+2020-03-23 19:36:04,655 INFO  [DefaultSoapUICore] Settings saved to [/home/erick-hdz/soapui-settings.xml]
