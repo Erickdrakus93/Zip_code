@@ -24,6 +24,7 @@ public class My_Resource {
     private Map<Integer, Zip_class> zip_db = new ConcurrentHashMap<Integer, Zip_class>();
     // Here the last is the working as DB this we can trade off for a ROM Data_Base
     @GET
+    // Here we can set the Response for more complex Responses
     @Produces(MediaType.APPLICATION_JSON)
     public Response message(){
         List<Zip_class> zipers = zip_code_service.findAll();
